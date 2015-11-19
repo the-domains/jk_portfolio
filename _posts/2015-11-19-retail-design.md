@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.'
-datePublished: '2015-11-19T18:49:18.421Z'
-dateModified: '2015-11-19T18:47:29.031Z'
+description: ''
+datePublished: '2015-11-19T19:14:59.522Z'
+dateModified: '2015-11-19T19:09:01.009Z'
 title: Retail Design
 authors: []
 publisher:
@@ -21,13 +21,16 @@ url: retail-design/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85b189a9-969c-41dc-b790-1a8a792b2260.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa385cc-6c53-4f7d-ba2d-6cc7d3be3d46.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e6e30a9-3964-4687-a04e-20e455e5412f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f54b8f0-8a27-4fbc-b14a-f838ffd7a91b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d85d55-c37d-4444-bd68-601d6d16d9c7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77594549-ab47-404c-a6dc-ae1ce2c23f92.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a150d3a-0dc3-460e-b9e4-97e9a618ea12.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e9e670-4e1f-4282-92c8-72d4ddec3c3b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ada530ca-a1ef-4916-a682-b12999379a9b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede549e0-48bd-41ce-84f0-db683babf67b.jpg)
+# Retail Design
+
+Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c48095-d79b-4bee-8060-4f63a34b738e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5add043-0317-4705-a5b7-452179b70a59.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25ef310-b78b-415e-9db3-4eb647386287.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3edf5a0-595c-41da-8a1b-7e5ebae38d17.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e48460b-ed93-490c-a19e-3e2cd39d914c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/058122a5-06e9-4adc-960f-afb1a744731e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/664a9901-7c3b-4bae-9a30-54344410caf2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52c1cbc-1b4e-415d-87eb-53854d749598.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28218af9-c2b5-4ee3-be26-ea8f5bde8417.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76cf9321-6a57-49c5-877b-e24ae39694c4.jpg)
