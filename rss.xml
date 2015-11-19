@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jamie Keegan - Portfolio]]></title>
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jk_portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 19:15:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 20:57:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jk_portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Residential Design]]></title>
+            <description><![CDATA[<article><h1>Residential Design</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c77cbe-b99b-48b4-82f6-67d9ce0d7a0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jk_portfolio/residential-design/index.html</link>
+            <guid isPermaLink="false">1612e714-7f51-4689-9191-a4de94d1af11</guid>
+            <pubDate>Thu, 19 Nov 2015 20:51:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retail Design]]></title>
             <description><![CDATA[<article><h1>Retail Design</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c48095-d79b-4bee-8060-4f63a34b738e.png"></article>]]></description>
-            <link>undefinedretail-design/index.html</link>
+            <link>https://thegrid.ai/jk_portfolio/retail-design/index.html</link>
             <guid isPermaLink="false">fe8be8ea-9ad4-4993-9969-cfc41b6d4095</guid>
             <pubDate>Thu, 19 Nov 2015 19:14:59 GMT</pubDate>
         </item>
