@@ -1,0 +1,28 @@
+name: JK_Portfolio
+favicon: null
+layout_spectrum: 0.7738545350730419
+typography_spectrum: 0.19316024938598275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.49837819719687104
+  lightness: 0.6091468767262995
+  saturation: 0.8689188435673714
+  rhythmicContrast: 0.9744228962808847
+purpose: []
