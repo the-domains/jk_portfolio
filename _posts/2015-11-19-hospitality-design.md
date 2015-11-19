@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T21:05:01.407Z'
-dateModified: '2015-11-19T21:04:32.745Z'
+datePublished: '2015-11-19T22:08:10.603Z'
+dateModified: '2015-11-19T22:08:05.738Z'
 title: Hospitality Design
+sourcePath: _posts/2015-11-19-hospitality-design.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-hospitality-design.md
-published: true
 url: hospitality-design/index.html
 _type: Article
 
