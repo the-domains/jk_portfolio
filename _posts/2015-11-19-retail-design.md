@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T19:14:59.522Z'
-dateModified: '2015-11-19T19:09:01.009Z'
+datePublished: '2015-11-19T22:06:27.246Z'
+dateModified: '2015-11-19T20:28:53.951Z'
 title: Retail Design
+sourcePath: _posts/2015-11-19-retail-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-retail-design.md
-published: true
+author: []
 url: retail-design/index.html
 _type: Article
 
