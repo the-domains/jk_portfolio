@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T06:25:31.973Z'
-dateModified: '2015-12-16T06:25:27.101Z'
+datePublished: '2015-12-16T06:29:34.872Z'
+dateModified: '2015-12-16T06:29:31.008Z'
 title: Retail Design
 sourcePath: _posts/2015-11-19-retail-design.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: retail-design/index.html
+_type: Article
 
 ---
 # Retail Design
