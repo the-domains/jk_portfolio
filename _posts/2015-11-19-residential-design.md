@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T06:25:06.282Z'
-dateModified: '2015-12-16T06:24:59.943Z'
+datePublished: '2015-12-16T06:29:14.910Z'
+dateModified: '2015-12-16T06:29:10.580Z'
 title: Residential Design
 sourcePath: _posts/2015-11-19-residential-design.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: residential-design/index.html
+_type: Article
 
 ---
 # Residential Design
