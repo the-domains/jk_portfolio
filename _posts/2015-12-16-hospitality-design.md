@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/80bec667-649c-412a-8a49-8d201aecd568.bin'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T06:25:52.955Z'
-dateModified: '2015-12-16T06:25:49.215Z'
+datePublished: '2015-12-16T06:28:54.329Z'
+dateModified: '2015-12-16T06:28:50.909Z'
 author: []
 title: HOSPITALITY DESIGN
 sourcePath: _posts/2015-12-16-hospitality-design.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: hospitality-design/index.html
 _context: 'http://schema.org'
 _type: Article
 
