@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T05:43:59.391Z'
-dateModified: '2015-12-16T05:43:32.409Z'
-title: "JAMIE KEEGAN\_"
+datePublished: '2015-12-16T06:27:26.477Z'
+dateModified: '2015-12-16T06:27:09.348Z'
+title: JAMIE KEEGAN
 author: []
 authors: []
 publisher:
@@ -22,6 +22,6 @@ published: true
 _type: Blurb
 
 ---
-# JAMIE KEEGAN 
+# JAMIE KEEGAN
 
-**PORTFOLIO - INTERIOR ARCHITECTURE & DESIGN**
+PORTFOLIO  -  INTERIOR ARCHITECTURE & DESIGN
