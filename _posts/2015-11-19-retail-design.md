@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T06:29:34.872Z'
-dateModified: '2015-12-16T06:29:31.008Z'
+datePublished: '2015-12-16T06:32:33.149Z'
+dateModified: '2015-12-16T06:32:27.525Z'
 title: Retail Design
 sourcePath: _posts/2015-11-19-retail-design.md
 published: true
